@@ -1,0 +1,32 @@
+{
+    "wma_aobj_start" : "Get ",
+    "wma_aobj_mid" : " kills with the ",
+    "wma_aobj_end" : "",
+
+    "wma_mastery1" : " Novice",
+    "wma_mastery2" : " Enthusiast",
+    "wma_mastery3" : " Expert",
+    "wma_mastery4" : " Master",
+
+    "wma_title" : "Weapon Mastery Achievements",
+    "wma_desc" : "Configure Weapon Mastery Achievements",
+
+    "wma_reload_loc_title" : "Reload Localisation",
+    "wma_reload_loc_desc" : "Press this button if you installed or uninstalled custom weapons\nor switched languages",
+
+    "wma_import_pdth_title" : "Import PDTH Challenges Progress",
+    "wma_import_pdth_desc" : "Only press this if you have PDTH Challenges Standalone installed\nand want to import your progress.",
+
+    "wma_import_pdth_confirm_title" : "Are you sure?",
+    "wma_import_pdth_confirm_desc" : "If you click this, any nonzero progress in PDTH Challenges\nwill be added to your WMA progress.",
+    "wma_import_pdth_confirm_yes" : "Import Progress",
+    "wma_import_pdth_confirm_no" : "Do Not Import Progress",
+
+    "wma_import_pdth_fail_title" : "Fatal Error",
+    "wma_import_pdth_fail_desc" : "Ensure you have the PDTH Challenges Standalone installed and updated to port your progress.",
+    "wma_import_pdth_fail_yes" : "I Understand.",
+
+    "wma_import_pdth_complete_title" : "Complete!",
+    "wma_import_pdth_complete_desc" : "Progress has been imported.\nHave fun!",
+    "wma_import_pdth_complete_yes" : "Okay!"
+}

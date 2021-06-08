@@ -1,0 +1,22 @@
+{
+    "menu_id" : "wma_menu",
+    "parent_menu_id" : "blt_options",
+    "title" : "wma_title",
+	"description" : "wma_desc",
+    "items" : [
+        {
+            "type" : "button",
+            "id" : "wma_reload_loc",
+            "title" : "wma_reload_loc_title",
+            "description" : "wma_reload_loc_desc",
+			"callback" : "wma_reload_loc_cblk"
+        },
+        {
+            "type" : "button",
+            "id" : "wma_import_pdth",
+            "title" : "wma_import_pdth_title",
+            "description" : "wma_import_pdth_desc",
+			"callback" : "wma_import_pdth_cblk"
+        }
+    ]
+}

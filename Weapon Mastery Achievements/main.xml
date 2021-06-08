@@ -1,0 +1,64 @@
+<table name="Weapon Mastery Achievements">
+	<AssetUpdates id="32470" version="1.2" provider="modworkshop" install_directory = "mods/" version_is_number="false"/>
+    <Achievements
+        id="assault_rifle_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+	
+	<Achievements
+        id="shotgun_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+	<Achievements
+        id="lmg_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+	<Achievements
+        id="snp_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+	<Achievements
+        id="smg_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+	<Achievements
+        id="pistol_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+	<Achievements
+        id="special_achievement_package" 
+        desc="s_ach_dummy" 
+        icon="guis/mastery_achievement_package/package_icon"
+		banner="guis/mastery_achievement_package/package_banner">
+    </Achievements>
+
+    <AddFiles directory="assets">
+        <png path="guis/mastery_achievement_package/package_icon"/>
+		<texture path="guis/mastery_achievement_package/package_banner"/>
+		<png path="guis/mastery_achievement_package/achievement_icon_1"/>
+        <png path="guis/mastery_achievement_package/achievement_icon_2"/>
+        <png path="guis/mastery_achievement_package/achievement_icon_3"/>
+        <png path="guis/mastery_achievement_package/achievement_icon_4"/>
+    </AddFiles>
+
+	<!-- Load Achievement Locs -->
+	<Localization default="achievs.json" directory="loc/achievements"/>
+
+</table>
